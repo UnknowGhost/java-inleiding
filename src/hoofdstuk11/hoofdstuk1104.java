@@ -3,6 +3,7 @@ import java.awt.*;
 import java.applet.*;
 /**
  * Created by Dell on 30-10-2016.
+ * by thomas
  */
 public class hoofdstuk1104 extends Applet {
 
