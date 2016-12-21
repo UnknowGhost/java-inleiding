@@ -15,7 +15,7 @@ public class hoofdstuk1108 extends Applet {
         int x = 500;
         int y = 500;
 
-        for(teller = 1; teller < 101; teller++) {
+        for(teller = 1; teller < 1000000; teller++) {
             vergroting += 10;
             x -= 5;
             y -= 5;

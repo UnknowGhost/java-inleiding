@@ -43,13 +43,7 @@ public class hoofdstuk1109 extends Applet {
                 }
                 g.fillRect(x, y, breedteVeld, hoogteVeld);
                 x += breedteVeld;
-
-
-
             }
-
-
-
             y += hoogteVeld;
         }
     }
