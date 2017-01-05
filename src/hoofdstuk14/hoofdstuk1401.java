@@ -22,7 +22,7 @@ public class hoofdstuk1401 extends Applet {
     }
 
     public void paint(Graphics g) {
-        g.drawString((Arrays.toString(bsbg)) + " " + ((Arrays.toString(bsbg2))), 150, 50);
+        g.drawString((Arrays.toString(bsbg)) + "  " + ((Arrays.toString(bsbg2))), 150, 50);
     }
 
     class klik implements ActionListener {
