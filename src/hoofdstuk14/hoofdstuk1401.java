@@ -31,7 +31,7 @@ public class hoofdstuk1401 extends Applet {
             Random rand = new Random();
 
             String [][] name = {{"harten"}, {"schoppen"}, {"klaveren"}, {"ruiten"}};
-            String [][] name2 = {{"2"}, {"3"}, {"4"}, {"5"}, {"6"}, {"7"}, {"8"}, {"9"}, {"10"}, {"boer"}, {"vrouw"}, {"heer"}, {"aas"}};
+            String [][] name2 = {{"twee"}, {"drie"}, {"vier"}, {"vijf"}, {"ses"}, {"zeven"}, {"acht"}, {"negen"}, {"tien"}, {"boer"}, {"vrouw"}, {"heer"}, {"aas"}};
 
             bsbg = name [rand.nextInt(name.length)];
             bsbg2 = name2 [rand.nextInt(name2.length)];
